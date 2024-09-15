@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TuyizereMandella
-- 👀 I’m interested in Software web-applications dev 
-- 🌱 I’m currently learning Software development
+- 👀 I’m interested in websites, app(android), AI, UI/UX based software development
+- 🌱 I’m currently learning Software Engennering
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me (+250)793086608 on whatsapp, willaaa269@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Still looking for ajob
+- ⚡ Fun fact: I am good on what i do..
 
 <!---
 TuyizereMandella/TuyizereMandella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
