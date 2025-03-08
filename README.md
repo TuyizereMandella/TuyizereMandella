@@ -8,7 +8,7 @@
 ---
 
 ## 🔥 About Me
-- 🌍 Based in Rwanda, Kigali(kgl)
+- 🌍 Based in Rwanda, Kigali
 
 - 💻 Specializing in Full-Stack Development  
 
@@ -40,18 +40,31 @@
 - **Tech**: React, Node.js, MongoDB
 - **[Link to Repo](https://github.com/TuyizereMandella/tracking-system-based-phoneNumber)**  
 
-
-### WeatherNow
-<!--![WeatherNow GIF](https://via.placeholder.com/400x200.png?text=WeatherNow+Demo)  -->
-<!-- INSTRUCTION: Same as above—replace with your own project GIF. -->
-- **Description**: A sleek weather app with live updates and forecasts.  
-- **Tech**: Python, Flask, OpenWeather API  
-- **[Link to Repo](https://github.com/TuyizereMandella)**  
-
 ---
 ## 📬 Let’s Connect!
 🌟 Reach out—I’d love to chat about code, projects, or coffee! 🌟<br>
-<i>Via My socialMedia Accounts on my Github Profile</i>
+  <!-- Contact Me -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://www.instagram.com/mandellarw/">
+        <img src="https://img.shields.io/badge/Instagram-20C997?style=for-the-badge&logo=Instagram&logoColor=white">
+      </a>
+      <a href="mailto:willaaa269@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Stats -->
+<div style="text-align: center; margin-top: 20px;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyizereMandella&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" alt="Top Langs" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge" alt="Solved.ac Profile" /><!--- ?boj=sinaetown -->
+</div>
+
+<a href="https://Link.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTuyizereMandella&count_bg=%23C8BFFB&title_bg=%23FF91B5&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ---
 ## 🎉 Something Fun
