@@ -3,7 +3,7 @@
 </div>
 
 
-I'm a passionate **Software Developer** crafting innovative solutions with code. Welcome to my GitHub universe! 🚀
+<i>I'm a passionate **Software Developer** crafting innovative solutions with code. Welcome to my GitHub universe! 🚀</i>
 
 ---
 
@@ -50,12 +50,10 @@ I'm a passionate **Software Developer** crafting innovative solutions with code.
 
 ---
 ## 📬 Let’s Connect!
-🌟 Reach out—I’d love to chat about code, projects, or coffee! 🌟
+🌟 Reach out—I’d love to chat about code, projects, or coffee! 🌟<br>
+<i>Via My socialMedia Accounts on my Github Profile</i>
 
-<h3 style="border-bottom: 1px solid #d8dee4; color: yellow;">Email:</h3> willaaa269@gmail.com
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Instagram:</h3> https://www.instagram.com/mandellarw
-<h3 style="border-bottom: 1px solid #d8dee4; color: blue;">LinkedIn:</h3> https://www.linkedin.com/in/mandella-rw-58a76525b
-
+---
 ## 🎉 Something Fun
 ```plaintext
 > Typing... "Code is poetry, and I’m a poet with a keyboard."
